@@ -1,0 +1,7 @@
+Pruebas Unitarias para evaluar el funcionamiento de la aplicación
+1- Introduzca en el campo de texto el siguiente texto "Programar"
+2- Presione "ENTER"
+3- Introduzca en el campo de texto el siguiente texto "Comentar Código"
+4- Presione "ENTER"
+5- Situese con el cursor sobre el item "Programar" y haga un click
+6- Situese con el cursor sobre el item "Programar" y haga un click
